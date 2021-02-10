@@ -17,7 +17,8 @@ library(openintro)
 library(ggrepel)
 ```
 
-\#\#Exercises
+\#\#Exercises According to the data dictionary, how many pets are
+included in this dataset? - 52519
 
 \`1.
 
