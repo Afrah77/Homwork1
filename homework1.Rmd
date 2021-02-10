@@ -1,6 +1,6 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
-author: "Afrah"
+author: "Afrah jaber"
 date: "`r Sys.Date()`"
 output: github_document
 ---
