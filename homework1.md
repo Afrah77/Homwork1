@@ -34,7 +34,7 @@ included in this dataset? - 52519
 Write your narrative below
 
 \`3. Copy the code provided in the homework documentation and paste it
-here.
+here. seattlepets %&gt;% + count(animal\_name, sort = TRUE)
 
 (4 points)
 
