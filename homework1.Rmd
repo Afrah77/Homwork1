@@ -31,7 +31,8 @@ library(ggrepel)
 ```{r}
 
 ```
-Write your narrative here
+#Exercises 2 how many varibles do we have for each pet?  
+- variables 7
 
 
 

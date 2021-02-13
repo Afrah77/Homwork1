@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 Afrah jaber
-2021-02-10
+2021-02-13
 
 \*\*Student ID:2201002977
 
@@ -24,7 +24,8 @@ included in this dataset? - 52519
 
 (4 points)
 
-Write your narrative here
+\#Exercises 2 how many varibles do we have for each pet?  
+- variables 7
 
 \`2.
 
