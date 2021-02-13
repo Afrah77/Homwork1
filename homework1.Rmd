@@ -46,8 +46,7 @@ library(ggrepel)
 Write your narrative below
 
 
-`3. Copy the code provided in the homework documentation and paste it here. 
- seattlepets %>% 
+`3. Copy the code provided in the homework documentation and paste it here. seattlepets %>% 
 + count(animal_name, sort = TRUE)
 
 
