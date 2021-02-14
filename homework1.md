@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 Afrah jaber
-2021-02-13
+2021-02-14
 
 \*\*Student ID:2201002977
 
@@ -33,13 +33,15 @@ included in this dataset? - 52519
 
 Write your narrative below
 
-\`3. Copy the code provided in the homework documentation and paste ithere.seattlepets %>% 
-+ + count(animal_name, sort = TRUE)
-
+\`3. Copy the code provided in the homework documentation and paste it
+here. seattlepets %&gt;% + count(animal\_name, sort = TRUE)
 
 (4 points)
 
 Write your narrative here
+
+seattlepets %&gt;% group\_by(species) %&gt;% count(animal\_name, sort =
+TRUE) %&gt;% slice\_max(n, n = 5)
 
 \`4.
 

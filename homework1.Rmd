@@ -57,7 +57,10 @@ Write your narrative below
 ```
 Write your narrative here
 
-
+seattlepets %>%
+  group_by(species) %>%
+  count(animal_name, sort = TRUE) %>%
+  slice_max(n, n = 5)
 
 `4.
 
