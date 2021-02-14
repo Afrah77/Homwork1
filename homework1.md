@@ -48,9 +48,7 @@ TRUE) %&gt;% slice\_max(n, n = 5)
 (10 points)
 
 \`5. What names are more common for cats than dogs? The ones above the
-line or the ones below the line?
-
-Answer here
+line or the ones below the line? Oliver Answer here Oliver and lily
 
 (4 points)
 
@@ -58,6 +56,6 @@ Answer here
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
+Answer here negative
 
 (4 points)
