@@ -48,7 +48,9 @@ TRUE) %&gt;% slice\_max(n, n = 5)
 (10 points)
 
 \`5. What names are more common for cats than dogs? The ones above the
-line or the ones below the line? Oliver Answer here Oliver and lily
+line or the ones below the line? Oliver Answer here
+
+Oliver and lily
 
 (4 points)
 
