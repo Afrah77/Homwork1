@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 Afrah jaber
-2021-02-14
+2021-02-16
 
 \*\*Student ID:2201002977
 
@@ -34,7 +34,7 @@ included in this dataset? - 52519
 Write your narrative below
 
 \`3. Copy the code provided in the homework documentation and paste it
-here. seattlepets %&gt;% + count(animal\_name, sort = TRUE)
+here. &gt;seattlepets %&gt;% + count(animal\_name, sort = TRUE)
 
 (4 points)
 
@@ -58,6 +58,6 @@ Oliver and lily
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here negative
-
-(4 points)
+Answer herer If the names of the dogs increased, the names of the cats
+increased, and if the names of the dogs decreased, the names of the cats
+also decreased (4 points)
