@@ -24,8 +24,9 @@ included in this dataset? - 52519
 
 (4 points)
 
-\#Exercises 2 how many varibles do we have for each pet?  
-- variables 7
+\#Exercises 2 how many varibles do we have for each pet?
+
+-   variables 7
 
 \`2.
 
@@ -34,14 +35,16 @@ included in this dataset? - 52519
 Write your narrative below
 
 \`3. Copy the code provided in the homework documentation and paste it
-here. &gt;seattlepets %&gt;% + count(animal\_name, sort = TRUE)
+here.
+
+> seattlepets %&gt;% + count(animal\_name, sort = TRUE)
 
 (4 points)
 
 Write your narrative here
 
-seattlepets %&gt;% group\_by(species) %&gt;% count(animal\_name, sort =
-TRUE) %&gt;% slice\_max(n, n = 5)
+> seattlepets %&gt;% group\_by(species) %&gt;% count(animal\_name, sort
+> = TRUE) %&gt;% slice\_max(n, n = 5)
 
 \`4.
 

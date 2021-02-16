@@ -23,7 +23,7 @@ library(ggrepel)
 
 
 ##Exercises According to the data dictionary, how many pets are included in this dataset? 
-- 52519
+ - 52519
 
 `1.
 
@@ -32,6 +32,7 @@ library(ggrepel)
 
 ```
 #Exercises 2 how many varibles do we have for each pet?  
+
 - variables 7
 
 
@@ -47,6 +48,7 @@ Write your narrative below
 
 
 `3. Copy the code provided in the homework documentation and paste it here. 
+
 >seattlepets %>% 
 + count(animal_name, sort = TRUE)
 
@@ -58,7 +60,7 @@ Write your narrative below
 ```
 Write your narrative here
 
-seattlepets %>%
+>seattlepets %>%
   group_by(species) %>%
   count(animal_name, sort = TRUE) %>%
   slice_max(n, n = 5)
@@ -73,6 +75,7 @@ seattlepets %>%
 
 `5.  What names are more common for cats than dogs? The ones above the line or the ones below the line? Oliver 
 Answer here
+
 
 Oliver and lily
 
